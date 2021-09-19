@@ -12,5 +12,6 @@ public class TestProxyPattern {
         System.out.println("");
         // 图像不需要从磁盘加载
         image.display();
+		test
     }
 }
