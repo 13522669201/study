@@ -10,8 +10,9 @@ public class TestProxyPattern {
         image.display();
         System.out.println("");
         // 图像不需要从磁盘加载
-        System.out.println("s");
-//        aaaa?
         image.display();
+        123
+                12
+
     }
 }
